@@ -21,8 +21,7 @@ public class ArrBasic {
             System.out.println("같지않다.");
         }
         // 3. 실수형 배열
-        double[] data = {0.2, 1.3, 3.
-                1};
+        double[] data = {0.2, 1.3, 3.1};
         System.out.println(data[1]);
 
         // members 배열의 길이를 출력
